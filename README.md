@@ -1,3 +1,3 @@
 ### Hi, I'm Cosimo :wave:
 
-[blog](https://cosimomatteini.com/) • [twitter](https://twitter.com/MatteiniCosimo) • [mastodon](https://hachyderm.io/@cosimomatteini)
+[blog](https://cosimomatteini.com/) • [bluesky](https://bsky.app/profile/cosimomatteini.com) • [mastodon](https://hachyderm.io/@cosimomatteini)
